@@ -59,7 +59,7 @@ const Navbar = () => {
                             <span className="w-12 text-center">19:01</span>
                         </div>
                         <div className="flex gap-8 text-xs text-[#23272A] font-sans">
-                            <span className="w-12 text-right pr-2">Jama'mah</span>
+                            <span className="w-12 text-right pr-2">Jama&apos;mah</span>
                             <span className="w-12 text-center">04:35</span>
                             <span className="w-12 text-center">11:50</span>
                             <span className="w-12 text-center bg-[#FFF7E0] rounded">15:35</span>
@@ -180,7 +180,7 @@ const Navbar = () => {
                                 <span className="w-12 text-center">19:01</span>
                             </div>
                             <div className="flex gap-4 text-xs text-[#23272A] font-sans">
-                                <span className="w-12 text-right pr-2">Jama'mah</span>
+                                <span className="w-12 text-right pr-2">Jama&apos;mah</span>
                                 <span className="w-12 text-center">04:35</span>
                                 <span className="w-12 text-center">11:50</span>
                                 <span className="w-12 text-center bg-[#FFF7E0] rounded">15:35</span>
